@@ -4,6 +4,7 @@
   "description": "Electric Bike Sharing Capstone Project",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon index.js",
     "start": "node index.js",
     "migrate": "knex migrate:latest",
     "migrate:down": "knex migrate:down",
