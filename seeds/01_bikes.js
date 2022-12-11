@@ -42,7 +42,7 @@ exports.seed = async function (knex) {
       description:
         "Meet the Cowboy 4 ST for a modern spin on a comfortable classic. Step in with ease and ride ahead on an electric bike that's built around you.",
       address: "709 Morar Turnpike",
-      city: "Marystown",
+      city: "Toronto",
       host_name: "Al Kuhn",
       price: 53,
     },
@@ -52,7 +52,7 @@ exports.seed = async function (knex) {
       description:
         "It has trustworthy components like a Samsung battery and Shimano disc brakes, plus nifty accessories like a cool suspension seat. It ships directly to you, which is handy if you'd like to avoid a bike shop.",
       address: "636 Beer Lakes",
-      city: "Shawville",
+      city: "Toronto",
       host_name: "Becky Dietrich",
       price: 64,
     },
@@ -62,7 +62,7 @@ exports.seed = async function (knex) {
       description:
         "This everyday carbon fiber ebike designed by Greg LeMond delivers relaxed racing geometry for easy handling and maneuverability.",
       address: "888 Deborah Track",
-      city: "Colwood",
+      city: "Calgary",
       host_name: "Cindy Huels",
       price: 77,
     },
