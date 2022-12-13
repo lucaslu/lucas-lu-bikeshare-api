@@ -72,7 +72,7 @@ exports.seed = async function (knex) {
       description:
         "On a tandem bike, the person who sits in the front and steers is called the pilot, while the person in back who only pedals is called the stoker.",
       address: "4239 Heidi Port",
-      city: "Leduc",
+      city: "Montreal",
       host_name: "Jorge Mosciski",
       price: 67,
     },
